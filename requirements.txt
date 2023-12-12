@@ -1,0 +1,17 @@
+geopandas==0.13.2
+dash==2.14.2
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-table==5.0.0
+gunicorn==21.2.0
+importlib-metadata @ file:///C:/b/abs_20ndzb2j6v/croot/importlib-metadata_1678997085534/work
+isort @ file:///tmp/build/80754af9/isort_1628603791788/work
+markdown-it-py @ file:///C:/b/abs_a5bfngz6fu/croot/markdown-it-py_1684279915556/work
+MarkupSafe @ file:///C:/ci_311/markupsafe_1676424152318/work
+matplotlib @ file:///C:/b/abs_49b2acwxd4/croot/matplotlib-suite_1679593486357/work
+matplotlib-inline @ file:///C:/ci_311/matplotlib-inline_1676425798036/work
+pandas @ file:///C:/miniconda3/conda-bld/pandas_1692298018988/work
+plotly @ file:///C:/ci_311/plotly_1676443558683/work
+requests @ file:///C:/b/abs_316c2inijk/croot/requests_1690400295842/work
+requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
+requests-toolbelt @ file:///C:/b/abs_2fsmts66wp/croot/requests-toolbelt_1690874051210/work
