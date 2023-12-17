@@ -4,6 +4,7 @@ dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
 gunicorn==21.2.0
+requests==2.31.0
 importlib-metadata @ file:///C:/b/abs_20ndzb2j6v/croot/importlib-metadata_1678997085534/work
 isort @ file:///tmp/build/80754af9/isort_1628603791788/work
 markdown-it-py @ file:///C:/b/abs_a5bfngz6fu/croot/markdown-it-py_1684279915556/work
